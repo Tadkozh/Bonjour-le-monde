@@ -1,4 +1,4 @@
-# hello-world
+# Bonjour le monde !
 Didactitiel de github
 <p>Hello les gens première tentative de branche sur Github !</p>
 <p>J'apprends JS et ses frameworks pour devenir un bon webdev front.</p>
